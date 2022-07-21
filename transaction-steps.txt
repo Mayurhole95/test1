@@ -1,3 +1,4 @@
 1. init a transaction
 2. make payment
 3. receipt generation
+4. transaction failed
