@@ -2,3 +2,5 @@
 2. make payment
 3. receipt generation
 4. successful
+5. transaction failed
+
